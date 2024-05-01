@@ -1,6 +1,7 @@
 {
   "description": "A list of common types of easy",
-  "easy": [
+  "easy":
+  [
     "Ant",
     "Apple",
     "Arm",
