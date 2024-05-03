@@ -191,21 +191,21 @@
     "Honey"
   ],
   "medium": [
-    "apostasy", "adhesion", "accident", "happiness", "hatred",
-    "kindness", "scientist", "creature", "companion", "composer",
-    "driveway", "division", "daylight", "messenger", "external",
-    "effort", "fluorite", "fascicle", "filigree", "gambling",
-    "glucose", "hospital", "employee", "homology", "highness",
-    "interest", "infantry", "impunity", "incoming", "impurity",
-    "judgment", "jostling", "jettison", "jaundice", "juggling",
-    "keyboard", "knuckles", "kerchief", "kindling", "kneeling",
-    "logician", "lingerer", "laminate", "nonsense", "nowadays",
-    "nepotism", "neurosis", "nuisance", "obstacle", "overview",
-    "optician", "outfield", "affinity", "airiness", "blockage",
+    "affinity", "accident", "airiness", "adhesion", "blockage",
     "blowhole", "bereaved", "bareness", "botanist", "brethren",
-    "corundum", "carapace", "canister", "comedown", "critical",
-    "cemetery", "clearing", "director", "dockyard", "divinity",
-    "diarrhea", "ethylene", "essayist", "enlarger", "endeavor",
-    "fourteen", "fishwife"
+    "corundum", "carapace", "canister", "cemetery", "clearing",
+    "director", "dockyard", "divinity", "diarrhea", "division",
+    "dawdling", "daylight", "ethylene", "essayist", "enlarger",
+    "endeavor", "fourteen", "fishwife", "friendship", "friendliness",
+    "happiness", "hatred", "kindness", "scientist", "critical",
+    "creature", "companion", "composer", "driveway", "division",
+    "daylight", "messenger", "external", "effort", "fluorite",
+    "fascicle", "filigree", "gambling", "glucose", "hospital",
+    "employee", "homology", "highness", "interest", "infantry",
+    "impunity", "incoming", "impurity", "judgment", "jostling",
+    "jettison", "jaundice", "juggling", "keyboard", "knuckles",
+    "kerchief", "kindling", "kneeling", "logician", "lingerer",
+    "laminate", "nonsense", "nowadays", "nepotism", "neurosis",
+    "nuisance", "obstacle", "overview", "optician", "outfield"
   ]
 }
